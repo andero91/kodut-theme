@@ -1,3 +1,3 @@
 # Kodutöö Theme
 
-Wordpressi teema, mille koostasin HKI5089.HK Veebiprogrammeerimine kodutööna.
+Wordpressi teema, mille koostasin kodutööna aines HKI5089.HK Veebiprogrammeerimine.
